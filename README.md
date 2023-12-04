@@ -47,6 +47,6 @@
    ```
 
 **Catatan:**
-Pastikan Anda memiliki kunci API OpenWeatherMap yang valid dan tercantum di dalam variabel appid pada baris ke-12 file App.js. Jika belum memiliki, bisa mendaftar untuk mendapatkan kunci API di situs web OpenWeatherMap.
+Pastikan memiliki kunci API OpenWeatherMap yang valid dan tercantum di dalam variabel appid pada baris ke-12 file App.js. Jika belum memiliki, bisa mendaftar untuk mendapatkan kunci API di situs web OpenWeatherMap.
 
 Selamat mencoba!
